@@ -8,7 +8,7 @@
   - Email verificaition/activation using Google OAuth2.0
 - State management using Redux
 
-###Future feature implementations include:
+### Future feature implementations include:
 
 - Protected routes using react-router version 6
 - Forgot email recovery
